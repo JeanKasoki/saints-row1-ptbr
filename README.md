@@ -1,5 +1,8 @@
 # ⚜️ Saints Row 1 (2006) | Tradução PT-BR
 
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+![Plataformas](https://img.shields.io/badge/Plataformas-Xbox%20360%20%7C%20Emuladores-orange)
+
 Fala, galera! Depois de muitos anos de espera, é com um orgulho imenso que venho compartilhar um projeto muito especial com vocês. O clássico **Saints Row 1 (2006)** para Xbox 360 está finalmente traduzido para português brasileiro!
 
 ## ⚠️ Avisos importantes sobre compatibilidade e testes
